@@ -1,0 +1,14 @@
+"Interspeech":
+  url: https://www.interspeech2026.org/
+  color: "#00369f"
+
+"WiNLP":
+  url: https://www.winlp.org/
+  color: "#b31b1b"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#6c757d"
+
+"IEEE ISC2":
+  color: "#009f36"

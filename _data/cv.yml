@@ -1,0 +1,63 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Muhammad Cendekia Airlangga
+    - name: Affiliation
+      value: Department of Natural Language Processing, MBZUAI
+    - name: Research Interests
+      value: Interpretability, Multimodal AI, Speech Language Models
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Natural Language Processing
+      institution: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE
+      year: 2026 - now
+      description:
+        - Advisor - Prof. Kentaro Inui
+    - title: MSc in Natural Language Processing
+      institution: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE
+      year: 2026
+      description:
+        - Thesis on vision-language model interpretability
+    - title: Bachelor of Engineering in Electrical Engineering
+      institution: Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia
+      description:
+        - Cum laude
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Intern
+      institution: Natural Language Understanding Team, RIKEN AIP, Japan
+      year: May - Jul 2025
+    - title: AI Engineer Intern
+      institution: Selamat Pagi Korea
+      year: Jul - Nov 2023
+    - title: Data Science Trainee
+      institution: Jakarta Smart City, Indonesia
+      year: Aug - Oct 2022
+    - title: Research Intern
+      institution: Data Science and Machine Learning Research Laboratory, KMITL, Thailand
+      year: Apr - Aug 2022
+    - title: Laboratory Assistant
+      institution: System and Cybernetics Laboratory, ITS Surabaya
+      year: 2021 - 2022
+    - title: Teaching Assistant, Mathematics I and II
+      institution: ITS Surabaya
+      year: 2019 - 2020
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - Best Paper Award, 9th WiNLP Workshop at EMNLP 2025
+    - year: 2021
+      items:
+        - Gold Medal, Poster Category, National Student Scientific Week (PIMNAS), Ministry of Education
+        - Bangkit Program Awardee, Google Indonesia
+    - year: 2019
+      items:
+        - Student Creativity Program (PKM), fully funded, Ministry of Education
