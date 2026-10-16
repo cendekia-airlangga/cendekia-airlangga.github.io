@@ -33,7 +33,7 @@ I am a first-year PhD student in the Department of Natural Language Processing a
 I am particularly interested in:
 
 - **Interpreting models with causality**:
-  Using causal tools such as interventions, causal mediation and causal abstraction to find which internal mechanisms actually drive a model's behaviour, in Transformers as well as state-space models like Mamba.
+  Using causal tools such as interventions, causal mediation and causal abstraction to find which internal mechanisms actually drive a model's behaviour.
 
 - **Causal understanding in language models**:
   Why do language models struggle with causal reasoning, and how can insights from interpretability help them reason better about cause and effect?
