@@ -1,18 +1,11 @@
 "EMNLP":
   url: https://2026.emnlp.org/
-  color: "#4b2e83"
 
 "Interspeech":
   url: https://www.interspeech2026.org/
-  color: "#00369f"
 
 "WiNLP":
   url: https://www.winlp.org/
-  color: "#b31b1b"
 
 "arXiv":
   url: https://arxiv.org/
-  color: "#6c757d"
-
-"IEEE ISC2":
-  color: "#009f36"
