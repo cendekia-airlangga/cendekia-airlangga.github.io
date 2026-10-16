@@ -6,7 +6,7 @@
     - name: Affiliation
       value: Department of Natural Language Processing, MBZUAI
     - name: Research Interests
-      value: Interpretability, Multimodal AI, Speech Language Models
+      value: Causality, Interpretability, Low-resource NLP
 
 - title: Education
   type: time_table
