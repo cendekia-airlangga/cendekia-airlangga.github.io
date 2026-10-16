@@ -48,6 +48,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-a-unified-safety-subspace-exists-in-speech-language-models-has-been-accepted-at-interspeech-2026",
           title: 'Our paper “A Unified Safety Subspace Exists in Speech Language Models” has been...',
           description: "",
+          section: "News",},{id: "news-our-paper-sparse-long-memory-and-transition-bottlenecks-shape-positional-recall-in-mamba-language-models-has-been-accepted-to-findings-of-emnlp-2026-see-you-in-budapest",
+          title: 'Our paper “Sparse Long Memory and Transition Bottlenecks Shape Positional Recall in Mamba...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
